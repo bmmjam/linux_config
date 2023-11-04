@@ -224,7 +224,7 @@ bindsym Print exec flameshot gui
 bindsym $mod+n exec --no-startup-id firefox
 bindsym $mod+b exec --no-startup-id thunar
 bindsym $mod+m exec --no-startup-id google-chrome-stable
-#bindsym $mod+ctrl+e exec v3lock ---- смотрел видос как поставить это, экран блокировки был с аниме, пока данные не очищал
+#bindsym $mod+ctrl+e exec v3lock ---- надо почистить, не юзаю
 bindsym $mod+Shift+l exec "i3lock -c 000000"
 
 #Start Polybar us ru keyboard
